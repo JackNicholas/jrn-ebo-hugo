@@ -12,4 +12,6 @@ this is something written in test.md
 
 _testing deploy script_
 
+and now with shell script message and formatting
+
 
