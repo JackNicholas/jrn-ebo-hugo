@@ -14,4 +14,6 @@ _testing deploy script_
 
 and now with shell script message and formatting
 
+and now the message!
+
 
